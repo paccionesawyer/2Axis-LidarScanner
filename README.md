@@ -5,7 +5,7 @@ Homework 1 from the ME134 Advanced Robotics Class at Tufts University. Using two
 
 ## Demo
 
-
+https://user-images.githubusercontent.com/57788768/140404453-e7e36259-267a-457d-b9fb-465cdf88ec0d.mp4
 
 ## Run Locally
 
